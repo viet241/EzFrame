@@ -1,7 +1,7 @@
 {
-  "version": "1.0.0",
-  "notes": "Update to version 1.0.0",
-  "pub_date": "2026-02-15T16:47:16Z",
+  "version": "0.9.1",
+  "notes": "Update to version 0.9.1",
+  "pub_date": "2026-02-15T16:42:28Z",
   "platforms": {
     "darwin-aarch64-app": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSb0U4TlJRQmlldU1JTWdaeTRhQ1VONUxHYzc1VUNLRE9KSDFKMzZMSkE2c1NLL20zNVVJSi9IU3ZQdTRTRkErNU8rL3pwZm12OHFRbi9tQkhpMmtGZVB5YlBiaktGV3drPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcxMTcyNjY0CWZpbGU6RXpGcmFtZV8wLjkuMF91bml2ZXJzYWwuZG1nCm5Nc0JtS0JFNHJhc29ocHdqZkVkdXJueldLaTBFdWE2c0dvZ0trVTNLc0FOVDArOFhEc0JkV2psWWRsY3cyYVMzdVFnUFhBMnVTSFBZUE8rL212cERRPT0K",
