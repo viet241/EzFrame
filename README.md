@@ -16,7 +16,7 @@ EzFrame is a free desktop application that makes managing your Samsung The Frame
 
 ## 🚀 Installation
 
-### Download Pre-built Binaries
+### Download binaries
 
 Download the latest release from the [Releases page](https://github.com/viet241/EzFrame/releases/latest).
 
@@ -27,7 +27,7 @@ Download the latest release from the [Releases page](https://github.com/viet241/
 
 ### System Requirements
 
-- Samsung The Frame TV (2018 or newer models recommended)
+- Samsung The Frame TV (2024 or newer models recommended)
 - Your computer and TV must be on the same local network
 - macOS 10.15+, Windows 10+, or Linux (Ubuntu 20.04+)
 
@@ -62,13 +62,15 @@ We'd love to hear your feedback! If you find EzFrame useful, please:
 
 This project is completely free to use. If you find EzFrame useful for your The Frame TV, consider supporting the development:
 
-- [Buy me a ko-fi](https://ko-fi.com/viet241) ☕
-- Direct bank transfer (details available in the app)
+<a href="https://ko-fi.com/R5R71U89QG" target="_blank" rel="noopener noreferrer">
+  <img 
+    height="36" 
+    style="border: 0px; height: 36px;" 
+    src="https://storage.ko-fi.com/cdn/kofi6.png?v=6" 
+    alt="Buy Me a Coffee at ko-fi.com" 
+  />
+</a>
 
-## 🙏 Acknowledgments
-
-- Inspired by [reframed.gallery](https://reframed.gallery) - a great resource for free art for The Frame TV
-- Community feedback and suggestions
 
 ## 📧 Contact
 
