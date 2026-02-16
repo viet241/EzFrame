@@ -14,6 +14,14 @@
     "darwin-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSb0U4TlJRQmlldUVxZ3RSbEZFa3VoYk1GeVAzeFNZdGF4MlJ2ZGRHRkJCZVNIZUoxWDJWU3dRakNFWW0zUFRVUFhCR1FvdlVHeWR3aytMYWdJRUtWOG9xM0hQTWZkOUE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcxMjI2OTc5CWZpbGU6RXpGcmFtZV94ODZfNjQuYXBwLnRhci5nego5dEdCZExqZUhQV0dFR1lGb0NPdU5xaEx2Q2p5V1k3aG1FNWZ3WTBGQi9oeUZjQWg4ZzIrbURzeFRUam9CM0ZCclQrU1NUMm5vRGlCdU9XSVV3RlFEQT09Cg==",
       "url": "https://github.com/viet241/EzFrame/releases/download/v0.9.3/EzFrame_x86_64.app.tar.gz"
+    },
+    "windows-x86_64-msi": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSb0U4TlJRQmlldU0rYktpSnR0NzR5Vnl5VDdRa2o4MFFrK1VNRDhYeHczNWREczc2bHJSb0NSdnM0Q1RibXIxcmErT0NKSjBuc1BOMzdTNklQcGFCQVV3TFk4NXBmcEFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcxMjM0NDEwCWZpbGU6RXpGcmFtZV8wLjkuM194NjRfZW4tVVMubXNpCktOd3RWaVkxYWNDUmExS1F6TDBBSzhkSHhnRzlTRmpWdzBvZnRoczBma1VyQUhOZXdTdzlGMzhvbWpJSGZaZVZ4T0xMR2t2YXVHQTdhSXBlalQ4VkFBPT0K",
+      "url": "https://github.com/viet241/EzFrame/releases/download/v0.9.3/EzFrame_0.9.3_x64_en-US.msi"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSb0U4TlJRQmlldU0rYktpSnR0NzR5Vnl5VDdRa2o4MFFrK1VNRDhYeHczNWREczc2bHJSb0NSdnM0Q1RibXIxcmErT0NKSjBuc1BOMzdTNklQcGFCQVV3TFk4NXBmcEFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcxMjM0NDEwCWZpbGU6RXpGcmFtZV8wLjkuM194NjRfZW4tVVMubXNpCktOd3RWaVkxYWNDUmExS1F6TDBBSzhkSHhnRzlTRmpWdzBvZnRoczBma1VyQUhOZXdTdzlGMzhvbWpJSGZaZVZ4T0xMR2t2YXVHQTdhSXBlalQ4VkFBPT0K",
+      "url": "https://github.com/viet241/EzFrame/releases/download/v0.9.3/EzFrame_0.9.3_x64_en-US.msi"
     }
   }
 }
