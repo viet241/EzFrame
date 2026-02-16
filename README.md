@@ -20,10 +20,15 @@ EzFrame is a free desktop application that makes managing your Samsung The Frame
 
 Download the latest release from the [Releases page](https://github.com/viet241/EzFrame/releases/latest).
 
-**Supported Platforms:**
-- macOS (`.dmg` installer)
-- Windows (`.msi` installer or `.exe` setup)
-- Linux (`.AppImage` or `.deb` package)
+| Platform | Architecture | Filename Pattern |
+|----------|-------------|------------------|
+| **macOS** | Intel (x86_64) | `EzFrame_*_x64_x86_64.dmg` |
+| **macOS** | Apple Silicon (arm64) | `EzFrame_*_aarch64_arm64.dmg` |
+| **macOS** | Intel (x86_64) - Portable | `EzFrame_x86_64.app.tar.gz` |
+| **macOS** | Apple Silicon (arm64) - Portable | `EzFrame_arm64.app.tar.gz` |
+| **Windows** | x64 | `EzFrame_*_x64_en-US.msi` |
+| **Linux** | x64 | `EzFrame_*_amd64.AppImage` |
+| **Linux** | x64 (Debian/Ubuntu) | `EzFrame_*_amd64.deb` |
 
 ### System Requirements
 
@@ -50,6 +55,32 @@ This application is built as a personal project and is not code-signed. When you
 - Code signing is not implemented (OS security warnings are expected)
 - Some advanced TV features may not be available depending on your TV model
 
+## 🔧 Troubleshooting Installation
+
+### macOS - Bypass Gatekeeper
+
+If macOS blocks the app from opening, remove the quarantine attribute using Terminal:
+
+```bash
+# After installing from .dmg
+xattr -d com.apple.quarantine /Applications/EzFrame.app
+
+# Or if using the portable .app.tar.gz version
+xattr -d com.apple.quarantine /path/to/EzFrame.app
+```
+
+### Windows - Bypass SmartScreen
+
+If Windows SmartScreen blocks the installer:
+
+1. When you see the "Windows protected your PC" warning, click **"More info"**
+2. Click **"Run anyway"** button
+3. The installer will proceed normally
+
+**Note**: These security warnings appear because the app is not code-signed. The application is safe to use - it's a personal project that doesn't collect any data and runs entirely on your local network.
+
+
+
 ## 💬 Feedback & Support
 
 We'd love to hear your feedback! If you find EzFrame useful, please:
@@ -62,7 +93,7 @@ We'd love to hear your feedback! If you find EzFrame useful, please:
 
 This project is completely free to use. If you find EzFrame useful for your The Frame TV, consider supporting the development:
 
-<a href="https://ko-fi.com/R5R71U89QG" target="_blank" rel="noopener noreferrer">
+<a href="https://ko-fi.com/viet241" target="_blank" rel="noopener noreferrer">
   <img 
     height="36" 
     style="border: 0px; height: 36px;" 
