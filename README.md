@@ -20,7 +20,7 @@ EzFrame is a free desktop application that makes managing your Samsung The Frame
 
 Download the latest release from the [Releases page](https://github.com/viet241/EzFrame/releases/latest).
 
-| Platform | Architecture | Filename Pattern |
+| Platform | Architecture | Filename |
 |----------|-------------|------------------|
 | **macOS** | Intel (x86_64) | `EzFrame_*_x64_x86_64.dmg` |
 | **macOS** | Apple Silicon (arm64) | `EzFrame_*_aarch64_arm64.dmg` |
@@ -35,19 +35,6 @@ Download the latest release from the [Releases page](https://github.com/viet241/
 - Samsung The Frame TV (2024 or newer models recommended)
 - Your computer and TV must be on the same local network
 - macOS 10.15+, Windows 10+, or Linux (Ubuntu 20.04+)
-
-### Note on Code Signing
-
-This application is built as a personal project and is not code-signed. When you download and install, your operating system may display a security warning - this is normal for unsigned applications. You can safely proceed with the installation.
-
-## 📖 Usage
-
-1. **Launch EzFrame** on your computer
-2. **Auto-Discovery**: The app will automatically scan for Frame TVs on your network
-3. **Connect**: Select your TV from the list and connect
-4. **Upload Art**: Drag and drop images directly onto the app, or use the upload button
-5. **Manage Library**: Browse your art collection, change mattes, delete images, or set them as the current display
-6. **Control TV**: Use the built-in controls or keyboard shortcuts to navigate your TV
 
 ## 🐛 Known Issues & Limitations
 
@@ -81,12 +68,54 @@ If Windows SmartScreen blocks the installer:
 
 
 
+## 📖 Usage
+
+1. **Launch EzFrame** on your computer
+2. **Auto-Discovery**: The app will automatically scan for Frame TVs on your network
+3. **Connect**: Select your TV from the list and connect
+4. **Upload Art**: Drag and drop images directly onto the app, or use the upload button
+5. **Manage Library**: Browse your art collection, change mattes, delete images, or set them as the current display
+6. **Control TV**: Use the built-in controls or keyboard shortcuts to navigate your TV
+
+## 🐞 Debug Mode & Capturing Logs
+
+If you run into connection issues, TV errors, or want to report a bug with useful context, you can enable **Debug Mode** to record detailed logs. All logs (app and TV communication) are written to a single file that you can save and share.
+
+### Enabling debug mode
+
+- **Keyboard shortcut**: Press the **Z** key **5 times** quickly (within about 2 seconds). A toast will confirm that debug mode is on, and a debug bar will appear at the bottom of the window.
+- **Turning off**: Click the **X** on the debug bar, or press **Z** five times again.
+
+### What gets logged
+
+When debug mode is on, the app records:
+
+- **User actions**: Connect, disconnect, tab changes, button clicks, uploads, remote key presses, etc. (prefixed as `[USER_EVENT]`).
+- **TV communication**: Commands sent to the TV and responses received (prefixed as `[RUST]` or `[TV_WS_RECV]` / `[TV_RESPONSE]`).
+- **Frontend logs**: Console output from the app UI.
+
+Logs are written in a compact, single-line format to keep the file size manageable.
+
+### Saving or clearing the log
+
+- **Save Debug Log**: On the debug bar, click **Save Debug Log** to choose a location and save the current log file (e.g. to attach to a GitHub issue).
+- **Clear Log**: Click **Clear Log** to empty the in-memory log file and start fresh (e.g. before reproducing a bug).
+
+### Tips for reporting issues
+
+1. Enable debug mode (press **Z** five times).
+2. Reproduce the problem (connect, upload, use a feature, etc.).
+3. Click **Save Debug Log** and attach the saved file to your GitHub issue.
+4. Optionally turn off debug mode when you are done (click **X** on the debug bar).
+
+This helps maintainers see exactly what the app and TV exchanged and what you did before the issue occurred.
+
 ## 💬 Feedback & Support
 
 We'd love to hear your feedback! If you find EzFrame useful, please:
 
 - ⭐ Star this repository
-- 🐛 Report bugs or request features via [Issues](https://github.com/viet241/EzFrame/issues)
+- 🐛 Report bugs or request features via [Issues](https://github.com/viet241/EzFrame/issues). If you encounter a bug, please include a debug log when creating your issue—this helps us resolve problems much faster!
 - 💡 Share your ideas and suggestions
 
 ## ☕ Support Development
