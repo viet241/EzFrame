@@ -1,38 +1,38 @@
 {
-  "version": "1.0.2",
-  "notes": "Update to version 1.0.2",
-  "pub_date": "2026-02-18T09:53:28Z",
+  "version": "1.0.3",
+  "notes": "Update to version 1.0.3",
+  "pub_date": "2026-02-21T07:59:47Z",
   "platforms": {
     "darwin-aarch64-app": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSb0U4TlJRQmlldUI0OGEzQ1lqOUlKQXBDZDZCSCtMUXd1UmFPMEs2NkhGNTNyYW1uSlgrWEVuK2oyc1VIRURCeTdQbGV5ZTViVzliRTViM3FaWUpoNWdDNmU4bVEzYXdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcxNDA3MzU2CWZpbGU6RXpGcmFtZV9hcm02NC5hcHAudGFyLmd6CmVaMkV1aFVZMVlZdGljVFJRMFlyeS9pWFBkMlZQdzBiVEt4MmhIajNPbWZUd2UzRVRvWmN5RERDcjhuYzRsb1RNZDBDTFRUUE0vYWZqR0d6WENDQ0JBPT0K",
-      "url": "https://github.com/viet241/EzFrame/releases/download/v1.0.2/EzFrame_arm64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSb0U4TlJRQmlldUIwUnBDdHd1ck1idGQ1a2FTOEljZHh6UjhOZ0wxMHdYTG9oeVFPYmpxb2V0OGszaFJVMGd5WEx4S2VhaDUveWh1dS9pWDhINUg0RHBRd0NIcWlZMEFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcxNjYwMjkxCWZpbGU6RXpGcmFtZV9hcm02NC5hcHAudGFyLmd6Cmh0MWhMRnFpSlFQU2JDQU9CQ2tqdEVGVXMyNG5ucEY0aXNJYU9qblEwSys5L2V0OTVHM3p2K3JwVmpVWW9EOTkxeEMrb0psQ05HUlN2bU1vU0NzNkFRPT0K",
+      "url": "https://github.com/viet241/EzFrame/releases/download/v1.0.3/EzFrame_arm64.app.tar.gz"
     },
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSb0U4TlJRQmlldUI0OGEzQ1lqOUlKQXBDZDZCSCtMUXd1UmFPMEs2NkhGNTNyYW1uSlgrWEVuK2oyc1VIRURCeTdQbGV5ZTViVzliRTViM3FaWUpoNWdDNmU4bVEzYXdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcxNDA3MzU2CWZpbGU6RXpGcmFtZV9hcm02NC5hcHAudGFyLmd6CmVaMkV1aFVZMVlZdGljVFJRMFlyeS9pWFBkMlZQdzBiVEt4MmhIajNPbWZUd2UzRVRvWmN5RERDcjhuYzRsb1RNZDBDTFRUUE0vYWZqR0d6WENDQ0JBPT0K",
-      "url": "https://github.com/viet241/EzFrame/releases/download/v1.0.2/EzFrame_arm64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSb0U4TlJRQmlldUIwUnBDdHd1ck1idGQ1a2FTOEljZHh6UjhOZ0wxMHdYTG9oeVFPYmpxb2V0OGszaFJVMGd5WEx4S2VhaDUveWh1dS9pWDhINUg0RHBRd0NIcWlZMEFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcxNjYwMjkxCWZpbGU6RXpGcmFtZV9hcm02NC5hcHAudGFyLmd6Cmh0MWhMRnFpSlFQU2JDQU9CQ2tqdEVGVXMyNG5ucEY0aXNJYU9qblEwSys5L2V0OTVHM3p2K3JwVmpVWW9EOTkxeEMrb0psQ05HUlN2bU1vU0NzNkFRPT0K",
+      "url": "https://github.com/viet241/EzFrame/releases/download/v1.0.3/EzFrame_arm64.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSb0U4TlJRQmlldUtRUVhlV085V3NTZ2YzNG5SeGxrQ2hXVk45Yzd1WmZnQk1jYnhxYUlnUWM0ekJucjh3bnFrLzc2bENjOTh5U3VIQWVRNVh1cnE3YUJtcmRSUWlUSWd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcxNDA3MzYxCWZpbGU6RXpGcmFtZV94ODZfNjQuYXBwLnRhci5negptWm9vSVJPclp0V241Y0hUMzlwckRiN3NoUkFyUWpPSWNvT2tJMFM2TXlCaUtPNE8yam90Ty8vSnJ0S2RMc3FBWXNrSFl3NlF0WnVwQUlOTlJmOWNEUT09Cg==",
-      "url": "https://github.com/viet241/EzFrame/releases/download/v1.0.2/EzFrame_x86_64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSb0U4TlJRQmlldUltUlpVNVp5a2M4Si9zN0pDNm9qTVJvMTlhK2swdnR2eGFLSEppUFllWDRKNzljTGVGQnNxTjFmZDBSVThKcjkyS1NsZmZ1VEdxQjROL0VmVjYvTXdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcxNjYwMzAzCWZpbGU6RXpGcmFtZV94ODZfNjQuYXBwLnRhci5negpjSi9xeTJiR2d2N29zV0wwWCtlUllwOFdRaUNwQVdDaDBqUWJMZ0VsLzgxQzROWFVWeTlEbFYrbzJlQXJ6Mm9HUWlIUFh1Yk8vUGZiQmV1VHFJakJBUT09Cg==",
+      "url": "https://github.com/viet241/EzFrame/releases/download/v1.0.3/EzFrame_x86_64.app.tar.gz"
     }
     ,
     "windows-x86_64-msi": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSb0U4TlJRQmlldUp1SmFKd1g1a1pYOGVlS3AwTnNqL2MrdWpkc0RIMlNtVFZ5ZnNmNlVDeGNwc1FiOHlXdUZPZ3pyVkRuekZHVmFhS1hPTDdMM2ZIaVJ1ekx3UnZuTWc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcxNDA3MzY2CWZpbGU6RXpGcmFtZV8xLjAuMl94NjRfZW4tVVMubXNpCkxRMTJJWEdWUzVrc3U5ekdCZjNNa3dISkh4bTU5OUVRandEQTVyMm1WTWZwNDYwQlB4aEVISGxMQ3pQT0ovR1lWQmtDWWRRSjlmYnJWdGVhaGFUa0RRPT0K",
-      "url": "https://github.com/viet241/EzFrame/releases/download/v1.0.2/EzFrame_1.0.2_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSb0U4TlJRQmlldUw0TGxuKzRVTXg2VGxuNFRzcDNRL1NNRlViYlFzeEpNZFhrUzVXeWNBOUMzNDRoNUVRMDhRTUQxaS9jb1BDYmZvbjlSRU9XekFobERLS0ZwaUQveUFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcxNjYwMzE1CWZpbGU6RXpGcmFtZV8xLjAuM194NjRfZW4tVVMubXNpCmFvQVVrTWUvVEkvL1V6a0RweUltTlQwRVZRTFNxaGE5eDlJbk45alBvcllnbUhBT2tDaktnRW9XSWI4ekx0MmkvaWRsV0xkckZwaG1xbkNOUlduQ0JRPT0K",
+      "url": "https://github.com/viet241/EzFrame/releases/download/v1.0.3/EzFrame_1.0.3_x64_en-US.msi"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSb0U4TlJRQmlldUp1SmFKd1g1a1pYOGVlS3AwTnNqL2MrdWpkc0RIMlNtVFZ5ZnNmNlVDeGNwc1FiOHlXdUZPZ3pyVkRuekZHVmFhS1hPTDdMM2ZIaVJ1ekx3UnZuTWc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcxNDA3MzY2CWZpbGU6RXpGcmFtZV8xLjAuMl94NjRfZW4tVVMubXNpCkxRMTJJWEdWUzVrc3U5ekdCZjNNa3dISkh4bTU5OUVRandEQTVyMm1WTWZwNDYwQlB4aEVISGxMQ3pQT0ovR1lWQmtDWWRRSjlmYnJWdGVhaGFUa0RRPT0K",
-      "url": "https://github.com/viet241/EzFrame/releases/download/v1.0.2/EzFrame_1.0.2_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSb0U4TlJRQmlldUw0TGxuKzRVTXg2VGxuNFRzcDNRL1NNRlViYlFzeEpNZFhrUzVXeWNBOUMzNDRoNUVRMDhRTUQxaS9jb1BDYmZvbjlSRU9XekFobERLS0ZwaUQveUFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcxNjYwMzE1CWZpbGU6RXpGcmFtZV8xLjAuM194NjRfZW4tVVMubXNpCmFvQVVrTWUvVEkvL1V6a0RweUltTlQwRVZRTFNxaGE5eDlJbk45alBvcllnbUhBT2tDaktnRW9XSWI4ekx0MmkvaWRsV0xkckZwaG1xbkNOUlduQ0JRPT0K",
+      "url": "https://github.com/viet241/EzFrame/releases/download/v1.0.3/EzFrame_1.0.3_x64_en-US.msi"
     }
     ,
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSb0U4TlJRQmlldUVmc1FsYzVXaUF4d1kzMWNNdlVicWpjM09ETjBsU3Btb3NvSkRXSGtsRnN2dkF6d0s5L3hyVExKVkpTNTc0UjRPTDRITGlvZUZjWEExR3R1cVBJeXdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcxNDA3MzcyCWZpbGU6RXpGcmFtZV8xLjAuMl9hbWQ2NC5BcHBJbWFnZQo1QUluYWFOYUpubFRCcUdOMVN1ckYwdjZOYy9tRTZFTm9hNHU3cC9uV2pybStnN0VXUW9oQURMK0E4cFBHOGkxNjJkbDlpdUNVeEFXRWd4WmZXRGJCdz09Cg==",
-      "url": "https://github.com/viet241/EzFrame/releases/download/v1.0.2/EzFrame_1.0.2_amd64.AppImage"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSb0U4TlJRQmlldUJGdGk4WFNpb1BqNGpuVEhLMEVqc0o2ZXBIeHgrZVB1aWxFQVJMc1VXV2dHUXF1RkJHN05OM0dvVERCNGFib0hNZmtuUXNpMHdUODFrNHF3SmQxOVFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcxNjYwMzI1CWZpbGU6RXpGcmFtZV8xLjAuM19hbWQ2NC5BcHBJbWFnZQpJUlNNZmpJRUh5MkFiaFkzYnREaWlhSEZYOHB1L05XTTVtc0lDbHZJZUJ6VEdHa3Q5T1ZiUjlrZi9tbTBGbENKRDl5U1VxTU9tNW1SZlBBd3pPdDhBUT09Cg==",
+      "url": "https://github.com/viet241/EzFrame/releases/download/v1.0.3/EzFrame_1.0.3_amd64.AppImage"
     }
     ,
     "linux-x86_64-deb": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSb0U4TlJRQmlldU1ObTV6bElNTXhxMDlMcGVuVXE1ZUZPYXo2ZkV4N25PL01wSVpIb1hLb1QydG40NGxDMHd6SEFnWlR2SUU0Z2FZVUwveEFrYm5hSWZJR0ZVSDRaTUFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcxNDA3Mzc3CWZpbGU6RXpGcmFtZV8xLjAuMl9hbWQ2NC5kZWIKNFlvRDlad1NhMktGZFllMUM5WUU3TmV5eVpPSHJYT0paQjQ2VEJVMjR6Sms5eEJTcVFnak9ZOWE5ZjgrYlFwSGhlck1NYkJlMGd0bHMyS0NJZzZLREE9PQo=",
-      "url": "https://github.com/viet241/EzFrame/releases/download/v1.0.2/EzFrame_1.0.2_amd64.deb"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSb0U4TlJRQmlldU9IRVkrY3BXQ0RDaXo2d3BITUR2OHYxTGt0Q3lWUWEwNWY1dlJuclpDQmJrVGoxelRBOFRyTU5YSkNNWTIxallwd2lKa2FRWHpGR3dnWHhLVy8rQVFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcxNjYwMzM0CWZpbGU6RXpGcmFtZV8xLjAuM19hbWQ2NC5kZWIKMWNWd0gwZ1hWY3l1MnV2OWhVaytvdUp1TWxuaGwwMnFRcUQvQVZLaHhOUlNDVU52NVlxMU9mRXNuVlRKRWdrK2ZvZ2dXcU9qU1VuQURRUFBCa3NtQXc9PQo=",
+      "url": "https://github.com/viet241/EzFrame/releases/download/v1.0.3/EzFrame_1.0.3_amd64.deb"
     }
   }
 }
